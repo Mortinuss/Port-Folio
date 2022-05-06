@@ -1,0 +1,37 @@
+body{
+    
+    background-color: lightcyan;
+}
+h1 {
+    color: darkblue;
+    background-color: darkgrey;
+    text-align: center;
+    }
+
+h3{
+    color: blue;
+
+}
+h4{
+    color: dodgerblue;
+}
+h5{
+    color: lightskyblue;
+    background-color: darkslategrey;
+}
+p{
+    color: cornflowerblue;
+    column-count: 2;
+    background-color: lightsteelblue;
+}
+ul{
+    /*border-width: 4px;
+    border-style: solid;
+    */
+    border-left:solid 16px darkslategrey
+    
+}
+li{
+    list-style: none;
+    background-color: lightsteelblue;
+}
